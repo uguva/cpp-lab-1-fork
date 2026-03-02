@@ -1,0 +1,23 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+*.exe
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# IDE folders
+.vscode/
+.idea/
+*.swp
+*.swo
